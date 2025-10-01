@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaruHime
 - 👀 I’m interested in snacks...
-- 🌱 I’m currently learning Python & Solidity
-- 💞️ I’m looking to collaborate on anything blockchain...
+- 🌱 I’m currently learning AI Automation so AI can do my work & I can game
+- 💞️ I’m looking to collaborate on anything automation
 - 📫 How to reach me at anpan@duck.com
 
 <!---
