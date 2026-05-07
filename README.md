@@ -23,7 +23,7 @@ Staged environments on Vercel (frontend) + Railway (backend). CodeRabbit audit P
 
 ## Background
 
-Infrastructure background informs how I build AI — staged environments, audit trails, governance and security.
+Infrastructure background informs how I build AI: staged environments, audit trails, governance and security.
 
 ---
 
