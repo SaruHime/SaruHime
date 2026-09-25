@@ -1,4 +1,4 @@
-# Lisa — Dev @ Esprit Labs | Answering dispensary challenges with AI
+# Lisa — Soloing @ Esprit Labs | Answering dispensary challenges with AI
 
 ---
 
