@@ -10,8 +10,6 @@ Multi-model architecture: Claude Sonnet (primary LLM), GPT-4o-mini (medical inte
 Context engineering: dynamic chip generation, session-aware guardrails, intent-based medical disclaimers.
 Staged environments on Vercel (frontend) + Railway (backend). CodeRabbit audit PRs on both repos.
 
-**HR Compliance Advisor (Management-facing)** — Deployed. LangSmith Agent Builder, Claude Sonnet, Gmail delivery, Google Drive handbook access.
-
 ---
 
 ## Stack
